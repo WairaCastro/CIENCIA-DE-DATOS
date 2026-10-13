@@ -1,0 +1,21 @@
+MATERIA: CIENCIA DE DATOS 
+TEMA: OBJETIVOS DE LA ACTIVIDAD 
+OBJETIVO GENERAL 
+Desarrollar habilidades básicas en el uso de Git y GitHub mediante la creación, modificación y documentación de archivos de texto, aplicando comandos fundamentales de control de versiones y utilizando mensajes de confirmación claros para mantener un historial organizado de los cambios realizados en un repositorio relacionado con la materia de Ciencia de Datos. 
+OBJETIVOS ESPECÍFICOS 
+Comprender los conceptos básicos de Git y GitHub, identificando sus diferencias y su importancia en la administración de proyectos académicos y tecnológicos. 
+Crear un repositorio personal en GitHub para almacenar y organizar los archivos correspondientes a la actividad de la materia de Ciencia de Datos. 
+Crear archivos de texto con extensión .txt y estructurar su contenido de manera clara, ordenada y comprensible. 
+Modificar el contenido de los archivos existentes para registrar nueva información, corregir errores y mejorar la documentación del proyecto. 
+Utilizar comandos básicos de Git, como git status, git add, git commit, git log y git push, para administrar los cambios realizados en los documentos. 
+Aprender a preparar los archivos modificados antes de guardarlos en el historial del repositorio, comprendiendo la función del área de preparación o staging. 
+Redactar mensajes de confirmación descriptivos que permitan identificar fácilmente las modificaciones realizadas en cada commit. 
+Comprender la importancia del control de versiones para mantener un registro cronológico de las modificaciones y facilitar la revisión del trabajo. 
+Desarrollar hábitos de organización y documentación que puedan aplicarse posteriormente a proyectos de programación, análisis de datos y desarrollo de software. 
+Fomentar la autonomía en el manejo de herramientas digitales mediante el trabajo individual y la administración responsable del repositorio. 
+IMPORTANCIA DE LOS OBJETIVOS 
+Estos objetivos permiten establecer una guía para el desarrollo de la actividad y facilitan la evaluación de los conocimientos adquiridos. A través de la práctica se busca comprender que el control de versiones no consiste únicamente en guardar archivos, sino también en documentar su evolución y mantener un registro de las decisiones y modificaciones realizadas. 
+En Ciencia de Datos, estas habilidades son relevantes porque los proyectos pueden experimentar numerosos cambios durante las etapas de preparación, procesamiento, análisis e interpretación de la información. 
+RESULTADOS ESPERADOS 
+Al finalizar la actividad, se espera contar con un repositorio personal en GitHub que contenga varios archivos de texto organizados y documentados. También se espera haber realizado diferentes modificaciones, registrado los cambios mediante commits y publicado las actualizaciones correspondientes. 
+Finalmente, se busca adquirir una comprensión inicial del funcionamiento de Git y GitHub, así como de su utilidad para mantener proyectos organizados, facilitar su seguimiento y documentar el trabajo realizado de forma clara y verificable.
